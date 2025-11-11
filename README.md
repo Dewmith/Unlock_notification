@@ -57,7 +57,7 @@ $to       = 'email_to_recieve_the_notification@gmail.com'   # recipient email
 ```
 Save the file.
 
-Need help creating gmail app password? [Click here](#tips-enable-app-passwords).
+Need help creating gmail app password? [Click here](https://github.com/Dewmith/Unlock_notification?tab=readme-ov-file#-tips-enable-app-passwords).
 
 ### 3. Create the Task in Task Scheduler
 
