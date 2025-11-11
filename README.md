@@ -1,7 +1,4 @@
-# Unlock_notification
-A method to allow your PC send an email to your email address once it's been unlocked for security.
-
-# 🔔 Windows Unlock Email Notifier
+## 🔔 Windows Unlock Email Notifier
 
 A lightweight PowerShell + Task Scheduler automation that sends you an email every time your Windows 11 computer is **unlocked**.  
 Perfect for monitoring workstation access or testing automation triggers.
